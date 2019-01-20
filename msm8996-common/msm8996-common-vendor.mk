@@ -327,6 +327,27 @@ PRODUCT_COPY_FILES += \
     vendor/lge/msm8996-common/proprietary/vendor/lib/rfsa/adsp/libvpp_frc.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libvpp_frc.so \
     vendor/lge/msm8996-common/proprietary/vendor/lib/rfsa/adsp/libvpp_svc_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libvpp_svc_skel.so \
     vendor/lge/msm8996-common/proprietary/vendor/lib/rfsa/adsp/us-syncproximity.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/us-syncproximity.so \
+    vendor/lge/msm8996-common/proprietary/vendor/lib/rfsa/adsp/fluence_voiceplus_module.so.1:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/fluence_voiceplus_module.so.1 \
+    vendor/lge/msm8996-common/proprietary/vendor/lib/rfsa/adsp/mmecns_module.so.1:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/mmecns_module.so.1 \
+    vendor/lge/msm8996-common/proprietary/vendor/lib/rfsa/adsp/libsysmon_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libsysmon_skel.so \
+    vendor/lge/msm8996-common/proprietary/vendor/lib/rfsa/adsp/libnanohub_ctl_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libnanohub_ctl_skel.so \
+    vendor/lge/msm8996-common/proprietary/vendor/lib/rfsa/adsp/libhvxMathVIO.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libhvxMathVIO.so \
+    vendor/lge/msm8996-common/proprietary/vendor/lib/rfsa/adsp/libexternal_dog_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libexternal_dog_skel.so \
+    vendor/lge/msm8996-common/proprietary/vendor/lib/rfsa/adsp/fastrpc_shell_0:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/fastrpc_shell_0 \
+    vendor/lge/msm8996-common/proprietary/vendor/lib/rfsa/adsp/chre_platform.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/chre_platform.so \
+    vendor/lge/msm8996-common/proprietary/vendor/lib/rfsa/adsp/chre_drv_sns.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/chre_drv_sns.so \
+    vendor/lge/msm8996-common/proprietary/vendor/lib/rfsa/adsp/chre.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/chre.so \
+    vendor/lge/msm8996-common/proprietary/vendor/lib/rfsa/adsp/activity.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/activity.so \
+    vendor/lge/msm8996-common/proprietary/vendor/lib/rfsa/adsp/WmaStdDecoderModule.so.1:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/WmaStdDecoderModule.so.1 \
+    vendor/lge/msm8996-common/proprietary/vendor/lib/rfsa/adsp/WmaProDecoderModule.so.1:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/WmaProDecoderModule.so.1 \
+    vendor/lge/msm8996-common/proprietary/vendor/lib/rfsa/adsp/VorbisDecoderModule.so.1:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/VorbisDecoderModule.so.1 \
+    vendor/lge/msm8996-common/proprietary/vendor/lib/rfsa/adsp/SrsTruMediaModule.so.1:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/SrsTruMediaModule.so.1 \
+    vendor/lge/msm8996-common/proprietary/vendor/lib/rfsa/adsp/SAPlusCmnModule.so.1:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/SAPlusCmnModule.so.1 \
+    vendor/lge/msm8996-common/proprietary/vendor/lib/rfsa/adsp/HeaacDecoderModule.so.1:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/HeaacDecoderModule.so.1 \
+    vendor/lge/msm8996-common/proprietary/vendor/lib/rfsa/adsp/FlacDecoderModule.so.1:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/FlacDecoderModule.so.1 \
+    vendor/lge/msm8996-common/proprietary/vendor/lib/rfsa/adsp/EtsiEaacPlusEncAndCmnModule.so.1:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/EtsiEaacPlusEncAndCmnModule.so.1 \
+    vendor/lge/msm8996-common/proprietary/vendor/lib/rfsa/adsp/ApeDecoderModule.so.1:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/ApeDecoderModule.so.1 \
+    vendor/lge/msm8996-common/proprietary/vendor/lib/rfsa/adsp/AlacDecoderModule.so.1:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/AlacDecoderModule.so.1 \
     vendor/lge/msm8996-common/proprietary/vendor/lib/sensors.ssc.so:$(TARGET_COPY_OUT_VENDOR)/lib/sensors.ssc.so \
     vendor/lge/msm8996-common/proprietary/vendor/lib/soundfx/libqcbassboost.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libqcbassboost.so \
     vendor/lge/msm8996-common/proprietary/vendor/lib/soundfx/libqcreverb.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libqcreverb.so \
